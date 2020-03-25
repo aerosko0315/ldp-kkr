@@ -1,0 +1,100 @@
+{
+  "id": "1517560",
+  "name": "KKR",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11855302",
+      "name": "slider",
+      "font_class": "slider",
+      "unicode": "e6d8",
+      "unicode_decimal": 59096
+    },
+    {
+      "icon_id": "11855303",
+      "name": "slider2",
+      "font_class": "slider1",
+      "unicode": "e6d9",
+      "unicode_decimal": 59097
+    },
+    {
+      "icon_id": "11855304",
+      "name": "箭头2",
+      "font_class": "jiantou",
+      "unicode": "e6da",
+      "unicode_decimal": 59098
+    },
+    {
+      "icon_id": "11855305",
+      "name": "箭头3",
+      "font_class": "jiantou1",
+      "unicode": "e6db",
+      "unicode_decimal": 59099
+    },
+    {
+      "icon_id": "11855306",
+      "name": "下拉",
+      "font_class": "xiala",
+      "unicode": "e6dc",
+      "unicode_decimal": 59100
+    },
+    {
+      "icon_id": "11855307",
+      "name": "箭头1",
+      "font_class": "jiantou2",
+      "unicode": "e6dd",
+      "unicode_decimal": 59101
+    },
+    {
+      "icon_id": "11855308",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e6de",
+      "unicode_decimal": 59102
+    },
+    {
+      "icon_id": "11855309",
+      "name": "pack",
+      "font_class": "pack",
+      "unicode": "e6df",
+      "unicode_decimal": 59103
+    },
+    {
+      "icon_id": "11855310",
+      "name": "floor",
+      "font_class": "floor",
+      "unicode": "e6e0",
+      "unicode_decimal": 59104
+    },
+    {
+      "icon_id": "11855311",
+      "name": "浴缸",
+      "font_class": "yugang",
+      "unicode": "e6e1",
+      "unicode_decimal": 59105
+    },
+    {
+      "icon_id": "11864573",
+      "name": "facebook",
+      "font_class": "facebook",
+      "unicode": "e6e2",
+      "unicode_decimal": 59106
+    },
+    {
+      "icon_id": "11864574",
+      "name": "youtube",
+      "font_class": "youtube",
+      "unicode": "e6e3",
+      "unicode_decimal": 59107
+    },
+    {
+      "icon_id": "11864575",
+      "name": "in",
+      "font_class": "in",
+      "unicode": "e6e4",
+      "unicode_decimal": 59108
+    }
+  ]
+}
