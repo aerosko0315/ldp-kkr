@@ -833,6 +833,10 @@ header {
 
     .grid-item {
         margin-bottom: 20px;
+
+        a {
+            cursor: pointer;
+        }
         
         .image-wrap {
             background-color: $white;
@@ -1683,6 +1687,10 @@ header {
 
     .grid-item {
         margin-bottom: 20px;
+
+        a {
+            cursor: pointer;
+        }
         
         .image-wrap {
             background-color: $white;
@@ -1743,6 +1751,7 @@ header {
 
         a {
             display: inline-block;
+            cursor: pointer;
         }
 
         .image-wrap {
@@ -1786,6 +1795,15 @@ header {
     margin-top: 127px;
 
     .grid-item {
+        height: 100%;
+
+        a {
+            cursor: pointer;
+            display: inline-block;
+            height: 100%;
+            position: relative;
+            overflow: hidden;
+        }
 
         .image-wrap {
             background-color: #ebf1f2;
@@ -1808,6 +1826,8 @@ header {
             margin-right: auto;
             max-width: 90%;
             margin-top: -67px;
+            position: relative;
+            height: 100%;
 
             .title {
                 background-color: #434343;
@@ -1831,6 +1851,7 @@ header {
                 background-color: #434343;
                 padding: 21px 15px;
                 min-height: 150px;
+                height: 100%;
 
                 p {
                     @extend %text-regular;
@@ -2206,7 +2227,7 @@ footer {
         padding: 15px 10px;
     }
 
-    .section-image-content-grid .grid-item {
+    .mb-md-20 {
         margin-bottom: 20px;
     }
 
@@ -2437,6 +2458,10 @@ footer {
 
     .section-image-title-grid .grid-item {
         margin-bottom: 0;
+    }
+
+    .section-image-content-grid .grid-item .item-content {
+        height: auto;
     }
 
 } // end of 575px max-width
